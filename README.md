@@ -1,19 +1,19 @@
-<h1 align="center">Rapid Bot</h1>
-<p align="center">Bot do Discord open-source para gerenciamento de servidores,ouvir músicas e muito mais!</p>
-<p align="center"><a href="http://rapid-site.surge.sh/">Site para configuração do servidor</a></p>
+<h1 align="center">Sebastian™ Bot</h1>
+<p align="center">Bot Discord para gerenciamento de servidores,ouvir músicas e muito mais!</p>
+<p align="center"><a href="https://discord.gg/dR4k3WTUjX">link do servidor</a></p>
 <p align="center">
-    <a href="https://discord.gg/v5d3PZ9"><img src="https://img.shields.io/discord/704882848364101763"></a>
+    <a href="https://discord.gg/dR4k3WTUjX"><img src="https://img.shields.io/discord/704882848364101763"></a>
     <img src="https://img.shields.io/github/repo-size/ReddyyZ/Rapid">
     <img src="https://img.shields.io/github/issues/ReddyyZ/Rapid">
     <img src="https://img.shields.io/github/license/ReddyyZ/Rapid">
     <img src="https://img.shields.io/badge/node-14.2.0-green">
 </p>
 <p align="center">
-    <a href="https://discord.com/oauth2/authorize?client_id=734154625845952694&permissions=8&scope=bot" target="_blank">Me adicione ao seu servidor!</a>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=855280582018465833&permissions=8&scope=bot" target="_blank">Me adicione ao seu servidor!</a>
 </p>
 <p align="center">
-    <a href="https://top.gg/bot/734154625845952694">
-    <img src="https://top.gg/api/widget/734154625845952694.svg" alt="Rapid" />
+    <a href="\">
+    <img src="\" alt="Sebastian™" />
 </a>
 </p>
 
@@ -35,69 +35,69 @@
 
 ## :pencil: Comandos
 - Comandos para Administração do servidor
-    - r!ban @Test#3333
+    - s!ban @Test#3333
         - Banir usuários
-    - r!kick @Test#3333
+    - s!kick @Test#3333
         - Kickar usuários
-    - r!setadmin @Test#3333
+    - s!setadmin @Test#3333
         - Dar o cargo 'Rapid Admin' a usuários
-    - r!clear 10
+    - s!clear 10
         - Limpa o chat
-    - r!mute @Test#3333 1h
+    - s!mute @Test#3333 1h
         - Muta um usuário
-    - r!unmute @Test#3333
+    - s!unmute @Test#3333
         - Desmuta um usuário
-    - r!antiflood
+    - s!antiflood
         - Ativa ou desativa o sistema anti-flood
-    - r!stopchat (Chat)
+    - s!stopchat (Chat)
         - Para o chat desabilitando a permissão dos usuários de falar
-    - r!resumechat (Chat)
+    - s!resumechat (Chat)
         - Habilita novamente a permissão dos usuários de falar
-    - r!sendembed (Título) ; (Descrição) ; (Thumbnail)
+    - s!sendembed (Título) ; (Descrição) ; (Thumbnail)
         - Envia uma mensagem em formato embed
         
 - Comandos para ouvir músicas
-    - r!play União Flasco
+    - s!play União Flasco
         - Adicionar uma música a fila de reprodução
-    - r!pause
+    - s!pause
         - Pausar uma música
-    - r!resume
+    - s!resume
         - Despausar uma música
-    - r!stop
+    - s!stop
         - Parar a música que está tocando e limpar a fila
-    - r!volume 0.5
+    - s!volume 0.5
         - Define o volume da música
-    - r!skip
+    - s!skip
         - Pula para a próxima música da fila
-    - r!loop
+    - s!loop
         - Coloca a música em loop
 
 - Comandos Gerais
-    - r!help
+    - s!help
         - Exibe os comandos
-    - r!serverinfo
+    - s!serverinfo
         - Obter informações sobre o servidor
-    - r!invite
+    - s!invite
         - Exibe a mensagem de convite do bot
-    - r!serverinvite (Descrição)
+    - s!serverinvite (Descrição)
         - Exibe uma mensagem de convite para o servidor
-    - r!rules
+    - s!rules
         - Exibe uma mensagem de regras
-    - r!botinfo
+    - s!botinfo
         - Exibe informações sobre o bot
 
 - Comandos para criar memes
-    - r!bobesponja (Texto)
-    - r!bolsonaro (Imagem)
-    - r!bolsonaro2 (Imagem)
-    - r!changemymind (Texto)
-    - r!monstro (Texto)
-    - r!piseinamerda (Texto)
+    - s!bobesponja (Texto)
+    - s!bolsonaro (Imagem)
+    - s!bolsonaro2 (Imagem)
+    - s!changemymind (Texto)
+    - s!monstro (Texto)
+    - s!piseinamerda (Texto)
 
 - Comandos Backup
-    - r!backup
+    - s!backup
         - Cria um backup de todos os canais, cargos, mensagens, etc. (Necessita de permissão de administrador)
-    - r!load (Backup ID)
+    - s!load (Backup ID)
         - Carrega um backup existente (Necessita de permissão de administrador)
 
 ## :page_facing_up: Licença
