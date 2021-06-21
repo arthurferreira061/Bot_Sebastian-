@@ -13,7 +13,7 @@
 </p>
 <p align="center">
     <a href="\">
-    <img src="\" alt="https://chatterbotcollection.com/images/Sebastian-Michaelis-Chat-bot.jpg" />
+    <img src="https://chatterbotcollection.com/images/Sebastian-Michaelis-Chat-bot.jpg" alt="" />
 </a>
 </p>
 
