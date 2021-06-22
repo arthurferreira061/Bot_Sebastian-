@@ -13,7 +13,7 @@
 </p>
 <p align="center">
     <a href="\">
-    <img src="https://chatterbotcollection.com/images/Sebastian-Michaelis-Chat-bot.jpg" alt="" />
+    <img src="https://i1.wp.com/discordemoji.com/assets/emoji/PinkDiscord.png" alt="" />
 </a>
 </p>
 
