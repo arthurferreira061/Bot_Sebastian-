@@ -13,7 +13,7 @@
 </p>
 <p align="center">
     <a href="\">
-    <img src="https://i1.wp.com/discordemoji.com/assets/emoji/PinkDiscord.png" alt="" />
+    <img src="https://ostops.net/wp-content/uploads/2021/03/os-melhores-bots-de-musica-para-o-discord.png" alt="" />
 </a>
 </p>
 
